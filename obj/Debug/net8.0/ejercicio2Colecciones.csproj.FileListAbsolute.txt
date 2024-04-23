@@ -1,0 +1,14 @@
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\bin\Debug\net8.0\ejercicio2Colecciones.exe
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\bin\Debug\net8.0\ejercicio2Colecciones.deps.json
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\bin\Debug\net8.0\ejercicio2Colecciones.runtimeconfig.json
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\bin\Debug\net8.0\ejercicio2Colecciones.dll
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\bin\Debug\net8.0\ejercicio2Colecciones.pdb
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.dll
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\refint\ejercicio2Colecciones.dll
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.pdb
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ejercicio2Colecciones.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\ejercicio2Colecciones\obj\Debug\net8.0\ref\ejercicio2Colecciones.dll
